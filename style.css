@@ -1,0 +1,12 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background: #333; color: #fff; padding: 10px 20px; }
+nav ul { list-style: none; display: flex; gap: 15px; }
+nav a { color: #fff; text-decoration: none; }
+.hero { background: #f4f4f4; padding: 20px; text-align: center; }
+.carousel img { width: 100px; margin: 10px; }
+.rate-cards { display: flex; gap: 20px; padding: 20px; flex-wrap: wrap; }
+.card { border: 1px solid #ccc; padding: 10px; border-radius: 8px; text-align: center; }
+.floating-buttons { position: fixed; right: 10px; bottom: 20px; display: flex; flex-direction: column; gap: 10px; }
+.call-btn, .whatsapp-btn { background: #25d366; color: white; padding: 10px; border-radius: 50%; text-align: center; font-size: 24px; text-decoration: none; box-shadow: 0 2px 5px rgba(0,0,0,0.3); }
+footer { background: #333; color: white; text-align: center; padding: 10px; }
